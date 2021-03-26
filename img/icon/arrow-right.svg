@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 22" width="15" height="22">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #191919;stroke-width: 4 } 
+	</style>
+	<g id="main">
+		<g id="section">
+			<g id="button">
+				<path id="svg" class="shp0" d="M2 20L12 11L2 2" />
+			</g>
+		</g>
+	</g>
+</svg>
